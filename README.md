@@ -5,4 +5,4 @@
 - 工具：APScheduler / DeepSeek API / Git  
 ## 项目 
 - 抖音装修获客工具 - 链家二手房分析仪表盘（Streamlit + Power BI)
-- 豆瓣Top250电影采集器  WX联系方式：yjfyyds6
+- 豆瓣Top250电影采集器  联系方式：3608872992@qq.com
