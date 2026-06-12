@@ -1,1 +1,3 @@
-## 关于我 土木工程转Python开发，专注爬虫工程和数据分析方向  ## 技术栈 - 爬虫：Python / requests / Scrapy / DrissionPage - 数据：pandas / matplotlib / streamlit / Power BI / MySQL - 工具：APScheduler / DeepSeek API / Git  ## 项目 - 抖音装修获客工具 - 链家二手房分析仪表盘（Streamlit + Power BI） - 豆瓣Top250电影采集器  WX联系方式：yjfyyds6
+##关于我 土木工程转Python开发，专注爬虫工程和数据分析方向  
+##技术栈 - 爬虫：Python / requests / Scrapy / DrissionPage - 数据：pandas / matplotlib / streamlit / Power BI / MySQL - 工具：APScheduler / DeepSeek API / Git  
+##项目 - 抖音装修获客工具 - 链家二手房分析仪表盘（Streamlit + Power BI） - 豆瓣Top250电影采集器  WX联系方式：yjfyyds6
