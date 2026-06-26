@@ -5,5 +5,6 @@
 - 工具：APScheduler / DeepSeek API / Git  
 ## 项目 
 - 抖音装修获客工具 - 链家二手房分析仪表盘（Streamlit + Power BI)
-- 豆瓣Top250电影采集器  联系方式：3608872992@qq.com
-- 雪球网股价监控系统
+- GitTrending 星级项目监控与打分系统
+- 房天下房价监控系统  
+- 雪球网股价监控系统 联系方式：3608872992@qq.com
