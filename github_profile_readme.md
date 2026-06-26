@@ -1,13 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191110102MACQD9K64018705
-    ProduceID: 907551919054137_0/project_7650382242090320143-files/github_profile_readme.md
-    ReservedCode1: ""
-    ContentPropagator: 001191110102MACQD9K64028705
-    PropagateID: 907551919054137#1782471938854
-    ReservedCode2: ""
----
 # 👋 Hi, I'm 杨爵锋 (Yang Juefeng)
 
 > 🎓 2026届本科毕业生 | 土木工程转码 Python 开发  
@@ -227,7 +217,3 @@ AIGC:
 <p align="center">
   <i>土木工程转码er | 用代码解决实际问题 | 持续学习中 🚀</i>
 </p>
-
----
-
-> 本内容由 Coze AI 生成，请遵循相关法律法规及《人工智能生成合成内容标识办法》使用与传播。
